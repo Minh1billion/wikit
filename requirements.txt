@@ -1,1 +1,6 @@
+requests
+sseclient-py
 kafka-python
+pyspark
+
+pytest
